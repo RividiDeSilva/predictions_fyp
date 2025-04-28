@@ -1,0 +1,14 @@
+# Byte‑compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual‑envs
+venv/
+.env/
+
+# OS / editor files
+.DS_Store
+.vscode/
+
+# Secrets / env files
+# .env.*.local

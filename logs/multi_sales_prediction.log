@@ -1,0 +1,2 @@
+2025-03-26 01:04:59 - INFO: Multi Sales Prediction Scheduler started
+2025-03-26 01:04:59 - ERROR: Critical error in scheduler: 'Job' object has no attribute 'month'

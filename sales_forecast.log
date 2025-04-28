@@ -1,0 +1,27 @@
+2025-03-25 23:35:19,073 - INFO - Database setup completed
+2025-03-25 23:35:19,073 - INFO - Scheduler started. Waiting for next scheduled run...
+2025-03-25 23:36:19,134 - INFO - Starting daily sales forecast
+2025-03-25 23:36:19,713 - INFO - Forecast saved for 0
+2025-03-25 23:36:19,713 - INFO - Predictions already exist for 254
+2025-03-25 23:36:19,714 - INFO - Predictions already exist for 265
+2025-03-25 23:36:20,354 - INFO - Forecast saved for 430
+2025-03-25 23:36:20,446 - INFO - Forecast saved for 525
+2025-03-25 23:36:20,446 - INFO - Predictions already exist for 544
+2025-03-25 23:36:20,596 - INFO - Forecast saved for 509
+2025-03-25 23:36:20,851 - INFO - Forecast saved for 603
+2025-03-25 23:36:21,188 - INFO - Forecast saved for 2
+2025-03-25 23:36:21,341 - INFO - Forecast saved for 563
+2025-03-25 23:36:21,472 - INFO - Forecast saved for 105
+2025-03-25 23:36:21,590 - INFO - Forecast saved for 1101
+2025-03-25 23:36:21,845 - INFO - Forecast saved for 110
+2025-03-25 23:36:22,016 - INFO - Forecast saved for 560
+2025-03-25 23:36:22,136 - INFO - Forecast saved for 19
+2025-03-25 23:36:22,245 - INFO - Forecast saved for 237
+2025-03-25 23:36:22,399 - INFO - Forecast saved for 65
+2025-03-25 23:36:22,521 - INFO - Forecast saved for 423
+2025-03-25 23:36:22,620 - INFO - Forecast saved for 333
+2025-03-25 23:36:22,710 - INFO - Forecast saved for 909
+2025-03-25 23:36:22,710 - INFO - Predictions already exist for S238
+2025-03-25 23:36:22,894 - INFO - Forecast saved for S332
+2025-03-25 23:36:26,711 - ERROR - Failed to send email notification: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22780f4a541sm93679785ad.77 - gsmtp')
+2025-03-25 23:36:26,711 - INFO - Daily forecast completed successfully
